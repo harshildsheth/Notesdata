@@ -1,4 +1,5 @@
-[
+{
+"notes":[
     {
         "id":1,
         "title":"title1",
@@ -25,3 +26,4 @@
         "textNote":"aksjbafaskhjbfga 555555 asf asd asd"
     }
 ]
+}
